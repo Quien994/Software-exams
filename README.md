@@ -8,7 +8,7 @@
 - [软件工程概述](https://github.com/gong2xi/Software-exams/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/)  
 - [软件过程模型](https://github.com/gong2xi/Software-exams/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/)
 - [需求分析&系统设计](https://github.com/gong2xi/Software-exams/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/)
-- [白盒测试](https://github.com/gong2xi/Software-exams/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/#白盒测试)
+- [白盒测试](https://github.com/gong2xi/Software-exams/edit/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/README.md/#白盒测试)
 <div align=center >
 <a href=#目录>返回目录</a>
 </div>
