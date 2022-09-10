@@ -80,6 +80,7 @@
 
 1. 依赖  
   依赖是两个事务间的语义关系，其中一个事务发生变化会影响另一个事务的语义。  
+  ![依赖](https://github.com/gong2xi/Software-exams/blob/main/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E6%8A%80%E6%9C%AF/images/dependency.png)
   
 2. 关联  
   描述了一组链，链是对象之间的连接。  
