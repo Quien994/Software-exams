@@ -123,21 +123,21 @@
 2. 对象图  
   对象图展现了某一时刻一组对象以及它们之间的关系，描述了在类图中所建立的事物的实例的静态快照  
   
-   <div align=center>
+  <div align=center>
   <img src="https://github.com/gong2xi/Software-exams/blob/main/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E6%8A%80%E6%9C%AF/images/object_diagram.png">
   </div>
   
 3. 用例图  
   用例图展现了一组用例、参与者以及它们之间的关系  
   
-   <div align=center>
+  <div align=center>
   <img src="https://github.com/gong2xi/Software-exams/blob/main/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E6%8A%80%E6%9C%AF/images/use_case_diagram.png">
   </div>
   
 4. 序列图  
   序列图是场景的图形化表示，描述了以时间顺序组织的对象之间的交互活动  
   
-   <div align=center>
+  <div align=center>
   <img src="https://github.com/gong2xi/Software-exams/blob/main/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E6%8A%80%E6%9C%AF/images/sequence_diagram.png">
   </div>
   
@@ -145,14 +145,14 @@
   状态图展现了一个状态机，它由状态、转换、事件和活动组成  
   状态图关注系统的动态视图，对于接口、类和协作的行为建模尤为重要，强调对象行为的事件顺序  
   
-   <div align=center>
+  <div align=center>
   <img src="https://github.com/gong2xi/Software-exams/blob/main/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E6%8A%80%E6%9C%AF/images/state_diagram.png">
   </div>
   
 6. 活动图  
   活动图是一种特殊的状态图，它展现了在系统内从一个活动到另一个活动的流程  
   
-   <div align=center>
+  <div align=center>
   <img src="https://github.com/gong2xi/Software-exams/blob/main/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E6%8A%80%E6%9C%AF/images/activity_diagram.png">
   </div>
   
