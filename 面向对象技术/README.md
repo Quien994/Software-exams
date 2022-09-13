@@ -82,7 +82,7 @@
   依赖是两个事务间的语义关系，其中一个事务发生变化会影响另一个事务的语义。 
   
   <div align=center >
-  <img src="https://github.com/gong2xi/Software-exams/blob/main/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E6%8A%80%E6%9C%AF/images/dependency.png">
+  <img src="https://github.com/gong2xi/Software-exams/blob/main/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E6%8A%80%E6%9C%AF/images/dependency.jpg">
   </div>
   
 2. 关联  
@@ -90,25 +90,25 @@
   聚集是一种特殊类型的关联，它描述了整体和部分间的结构关系  
   
   <div align=center>
-  <img src="https://github.com/gong2xi/Software-exams/blob/main/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E6%8A%80%E6%9C%AF/images/association.png">
+  <img src="https://github.com/gong2xi/Software-exams/blob/main/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E6%8A%80%E6%9C%AF/images/association.jpg">
   </div>  
   
   <div align=center>
-  <img src="https://github.com/gong2xi/Software-exams/blob/main/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E6%8A%80%E6%9C%AF/images/aggregation.png">
+  <img src="https://github.com/gong2xi/Software-exams/blob/main/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E6%8A%80%E6%9C%AF/images/aggregation.jpg">
   </div>
   
 3. 泛化  
   泛化是一种特殊/一般的关系：特殊元素（子元素）的对象可替代一般元素（父元素）的对象  
   
   <div align=center>
-  <img src="https://github.com/gong2xi/Software-exams/blob/main/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E6%8A%80%E6%9C%AF/images/generalization.png">
+  <img src="https://github.com/gong2xi/Software-exams/blob/main/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E6%8A%80%E6%9C%AF/images/generalization.jpg">
   </div>
   
 4. 实现  
   实现是类元之间的语义关系，其中一个类元指定了由另一个类元保证执行的契约  
   
   <div align=center>
-  <img src="https://github.com/gong2xi/Software-exams/blob/main/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E6%8A%80%E6%9C%AF/images/realization.png">
+  <img src="https://github.com/gong2xi/Software-exams/blob/main/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E6%8A%80%E6%9C%AF/images/realization.jpg">
   </div>
 
 <div align=center >
