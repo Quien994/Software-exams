@@ -5,6 +5,9 @@
   - [面向对象的基本概念](#1-面向对象的基本概念)
   - [面向对象设计的原则](#2-面向对象设计的原则)
 - [UML](#UML)  
+  - [事务](#1-事务)
+  - [关系](#2-关系)
+  - [UML图](#3-UML图)
 - [设计模式](#设计模式)  
 
 ## 内容  
@@ -156,6 +159,7 @@
   <img src="https://github.com/gong2xi/Software-exams/blob/main/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E6%8A%80%E6%9C%AF/images/activity_diagram.png">
   </div>
   
+### 设计模式
 <div align=center >
 <a href=#目录>返回目录</a>
 </div>
