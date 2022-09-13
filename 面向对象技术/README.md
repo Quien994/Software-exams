@@ -87,12 +87,11 @@
   
 2. 关联  
   描述了一组链，链是对象之间的连接。  
+  聚集是一种特殊类型的关联，它描述了整体和部分间的结构关系  
   
   <div align=center>
   <img src="https://github.com/gong2xi/Software-exams/blob/main/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E6%8A%80%E6%9C%AF/images/association.png">
   </div>  
-  
-  聚集是一种特殊类型的关联，它描述了整体和部分间的结构关系  
   
   <div align=center>
   <img src="https://github.com/gong2xi/Software-exams/blob/main/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E6%8A%80%E6%9C%AF/images/aggregation.png">
